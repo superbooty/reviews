@@ -53,6 +53,18 @@
         "description":"This was OK",
         "rating":3,
         "date": "1392676020000"
+    },
+    {
+        "name":"What the hell did I buy here.",
+        "description":"I dont understand how the pieces inside the box will turn into the picture on the box ",
+        "rating":2,
+        "date": "1405432000000"
+    },
+    {
+        "name":"I would buy more products like this",
+        "description":"Is there anything this product wont do. The answer is 'NO'",
+        "rating":5,
+        "date": "1399676020000"
     }
     
 ]
