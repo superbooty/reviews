@@ -57,7 +57,7 @@ public class Review implements Serializable {
 	public String getPrettyDate() {
 		Date date = new Date();
 		date.setTime(new Long(this.date));
-		SimpleDateFormat format = new SimpleDateFormat("dd-M-yyyy hh:mm:ss");
+		SimpleDateFormat format = new SimpleDateFormat("M/dd/yyyy hh:mm a");
 		return format.format(date);
 	}
 
