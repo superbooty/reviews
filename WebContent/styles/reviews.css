@@ -122,3 +122,15 @@ input[type="text"], input[type="password"], input[type="number"], input[type="em
 .ratings-filter {
 	height: 100px;
 }
+
+.clear-filters {
+	border: solid 1px #fb6422;
+	border-radius: 10px;
+	height: 30px;
+	width: 100px;
+	background: #fb6422;
+	text-align: center;
+	color: white;
+	font-weight: 500;
+	line-height: 30px;
+}
