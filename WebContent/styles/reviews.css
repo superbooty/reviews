@@ -1,11 +1,10 @@
 
 .review {
-    width: 160px;
+    width: 200px;
     padding: 10px;
     border: 1px solid green;
     border-radius: 4px;
     background-color: #fff;
-    height: 155px;
     margin: 0 0 10px 0;
 }
 
