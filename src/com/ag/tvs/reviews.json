@@ -3,47 +3,56 @@
     {
         "name":"Holy shit, this is amazing",
         "description":"What a great product. I almost couldnt believe this unicorn exists",
-        "rating":4
+        "rating":4,
+        "date": "1408032000000" 
     },
     {
         "name":"This was just OK.  Actually I was a bit disappointed",
         "description":"This was complete crap, I'll never buy this again unless it's on sale",
-        "rating":2
+        "rating":2,
+        "date": "1402772400000"
     },
     {
         "name":"I'm not gonna lie, this is product is OK",
         "description":"I wish it could fly though",
-        "rating":3
+        "rating":3,
+        "date": "1403211600000"
     },
     {
         "name":"This product is a solid performer",
         "description":"there is room for improvement here but it's not bad",
-        "rating":3
+        "rating":3,
+        "date": "1400533200000"
     },
     {
         "name":"My liky, I think I want 2 more of these",
         "description":"That's what I'm talking about, finally a product that changes lives",
-        "rating":4
+        "rating":4,
+        "date": "1401397200000"
     },
     {
         "name":"Not good, Not good, Not good",
         "description":"Never buy this crap",
-        "rating":2
+        "rating":2,
+        "date": "1412024400000"
     },
     {
         "name":"There is no way to make this better",
         "description":"As long as products this good hit the market, I'll continue to be a consumer",
-        "rating":5
+        "rating":5,
+        "date": "1405804800000"
     },
     {
         "name":"What a piece of garbage, I want my money back",
         "description":"This product makes me want to poop",
-        "rating":2
+        "rating":2,
+        "date": "1405632000000"
     },
     {
         "name":"I could take it or leave it",
         "description":"This was OK",
-        "rating":3
+        "rating":3,
+        "date": "1392676020000"
     }
     
 ]

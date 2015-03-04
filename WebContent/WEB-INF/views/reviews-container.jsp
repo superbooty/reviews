@@ -6,7 +6,7 @@
 				<c:forEach var="review" items="${reviews}">
 					<li>
 						<div class="review review-text">
-							<div class="review-title">Review</div>
+							<div class="review-title">Review - ${review.prettyDate}</div>
 							<div class="review-seg">${review.name}</div>
 							<div class="review-seg">${review.description}</div>
 							<div class="product-rating shelf-item-rating " >
