@@ -17,3 +17,6 @@ Once the Git project has been cloned on your local machine do the following
 <li>Click finish.  This will bring the project into the package explorer</li>
 </ul>
 
+Once the proeject is in the package explorer right click on it and select the Maven menu. The maven memu will have a "Maven install" option.  Click on that option and that will grab the maven dependencies and apply them to the project.
+
+Once the project has been build with Maven you can right click on it and Debug it or Run it by selected the proper "Run As" or "Debug As".  
